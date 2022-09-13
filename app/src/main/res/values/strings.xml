@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Guitar Chord Assistant</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="toggle_mode">Toggle Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_library">LibraryActivity</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="FirstFragmentText">Welcome to the Guitar Chord Assistant App!</string>
+    <string name="intro">When you reach the homepage, start with the Learning section if you\'re new to playing guitar. Here you\'ll learn about the CAGED system and how to read chord diagrams.</string>
+    <string name="chord_library">Chord Library: Select a chord to see diagrams of each position you can play it in, what it sounds like, and what notes it contains.</string>
+    <string name="camera_text">Camera: Open a chord diagram from the library to see it on screen while you work out how to play it. Capture photos or record videos of yourself playing.</string>
+    <string name="photo_library_text">Photo Library: Your pictures captured using the app\'s camera will be saved in your personal photo library.</string>
+    <string name="video_library_text">"Video Library: If you use the camera to record a video of yourself playing, the video will be stored here when recording has stopped.</string>
+    <string name="learn_caged">Learn the CAGED System: Go here to learn the basics of the CAGED system, which will give you the knowledge you need to learn and master the guitar fretboard</string>
+    <string name="chord_diagram_text">Learn Chord Diagrams: Learn how to read and understand chord diagrams. Start here if you\'re new to learning the guitar, then head to the chord library once you\'re ready!</string>
+    <string name="caged_text">The CAGED System is a method mapping out the guitar fretboard by learning 5 basic major chord shapes and how they can be played in different positions on the guitar fretboard. The CAGED System simplifies the learning process by allowing students to learn chords through repeated patterns rather than memorising hundreds of individual shapes. CAGED refers to the five basic open chord shapes (C, A, G, E, D) which are shown in the diagram below.</string>
+    <string name="caged_text2">All of these chord shapes can be moved up the fretboard to play different major chords. This is possible by playing bar chords instead of open chords. Notice how the bar chord shapes below relate to the open chord shapes in the image above.</string>
+    <string name="caged_text3">The next step to understanding CAGED is learning how to connect the 5 chord shapes across the guitar fretboard. Let\'s look at the open C chord first.</string>
+    <string name="caged_text4">The next shape in the CAGED sequence is A. The root note that\'s furthest up the fretboard in the first shape becomes the root note furthest down the fretboard in the next shape. In this case, it\'s the C note on the 3rd fret of the A string</string>
+    <string name="caged_text5">The image below shows a combination of the two shapes to show how they are connected more clearly</string>
+    <string name="caged_text6">All the chord shapes in the CAGED system are connected along the fretboard in this manner. Visit the Chord Library in this app, select a major chord and swipe through the images to see how each chord shape connects to the previous. Learning these patterns and the notes in each chord provides you with the tools you need to start memorising and unlocking the guitar fretboard. Playing alternate chords is just a matter of adding and subtracting notes from these 5 chord shapes.</string>
+    <string name="tools_text">Search the extensive chord library for any chord you want to learn. Select the camera icon to open the chord diagram on screen with the camera and take a photo of your hand once you\'ve worked out how to play it.</string>
+    <string name="gallery_text">If you want to look at a chord you\'ve taken a photo of or a video you\'ve captured of yourself playing, everything you\'ve captured using the app\'s camera is stored in the photo and video galleries.</string>
+</resources>
